@@ -12,7 +12,7 @@
 
 ## ✨一键安装脚本
 ```
-bash <(curl -sSL https://raw.githubusercontent.com/jyucoeng/mtproxy/main/mtproxy.sh](https://raw.githubusercontent.com/Daelli/mtproxy/refs/heads/main/mtproxy.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/Daelli/mtproxy/refs/heads/main/mtproxy.sh)
 ```
 
 
